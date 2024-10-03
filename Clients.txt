@@ -1,0 +1,8 @@
+5127	Adham	Kiwan	-1201671606	20220182@ua.edu.lb	76-741223
+3912	John	Smith	339363502	johnsmith@ua.edu.lb	12-345678
+4362	Lama	Bitar	-1201671606	lama@hotmail.com	12-345678
+6293	samir	kiwan	-1201671606	samir@hotmail.com	12-345678
+2309	Rakan	Kiwan	-635288042	rakankiwan@gmail.com	71-580109
+728	Ana	muhandes	950013366	arijkiwan1@gmail.com	76-103423
+5231	Salman	Kiwan	1366892130	salman@gmail.com	01-234567
+1342	Arij	Kiwan	1366892130	arijkiwan@hotmail.com	01-234567

@@ -1,0 +1,3 @@
+987654E	Toyota	2009	RAV4	5	Green
+123456A	BMW	1999	Pilot	50	Blue
+111111F	Honda	2000	Civic	24	Black
